@@ -1,4 +1,4 @@
-# 1A
+# 2340 Assignment
 
 Instructions and any starter code for this assignment reside in our online class.
 
